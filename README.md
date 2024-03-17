@@ -16,15 +16,15 @@
 참고 이미지
 <br>
 <figure>
-  <img src="https://github.com/wjtls/10.Issue_data/assets/60399060/61f808e8-846a-42dd-a0e7-e398cc7d24cd" alt="참고 이미지" width="300">
+  <img src="https://github.com/wjtls/10.Issue_data/assets/60399060/61f808e8-846a-42dd-a0e7-e398cc7d24cd" alt="참고 이미지" width="300" height='300'>
   <figcaption>부정키워드 뉴스 전송</figcaption>
 </figure>
 <figure>
-  <img src="https://github.com/wjtls/10.Issue_data/assets/60399060/263a85ad-929d-4ff9-a442-3733ce944a6b" alt="참고 이미지" width="300">
+  <img src="https://github.com/wjtls/10.Issue_data/assets/60399060/263a85ad-929d-4ff9-a442-3733ce944a6b" alt="참고 이미지" width="300"  height='300'>
   <figcaption>긍정키워드 뉴스 전송</figcaption>
 </figure>
 <figure>
-  <img src="https://github.com/wjtls/10.Issue_data/assets/60399060/1b274d49-2ba8-4117-8732-9d816c8bcc61" alt="참고 이미지" width="300">
+  <img src="https://github.com/wjtls/10.Issue_data/assets/60399060/1b274d49-2ba8-4117-8732-9d816c8bcc61" alt="참고 이미지" width="300" height='300'>
   <figcaption>간단한 뉴스강도 계산</figcaption>
 </figure>
 
