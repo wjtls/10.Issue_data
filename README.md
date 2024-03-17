@@ -10,9 +10,11 @@
 3. 긍정 키워드, 부정 키워드별 이슈 데이터 수집
 4. 불러올 기간 설정
 5. 뉴스강도 , 정량화하여 지표로 활용가능
-
+<br>
+<br>
 <br>
 참고 이미지
+<br>
 <figure>
   <img src="https://github.com/wjtls/10.Issue_data/assets/60399060/61f808e8-846a-42dd-a0e7-e398cc7d24cd" alt="참고 이미지" width="300">
   <figcaption>부정키워드 뉴스 전송</figcaption>
