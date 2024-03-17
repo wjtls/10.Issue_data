@@ -29,7 +29,7 @@
 <p>
 <figure>
   <img src="https://github.com/wjtls/10.Issue_data/assets/60399060/1b274d49-2ba8-4117-8732-9d816c8bcc61" alt="참고 이미지" width="300" height='300'>
-  <figcaption>키워드 카운트&nbsp;&nbsp;&nbsp;&nbsp; </figcaption>
+  <figcaption>키워드 카운트&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </figcaption>
 </figure>
 <figure>
   <img src="https://github.com/wjtls/10.Issue_data/assets/60399060/67171730-b200-4053-9fe5-7aebf9c231b2" alt="참고 이미지" width="300" height='300'>
